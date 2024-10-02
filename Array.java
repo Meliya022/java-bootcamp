@@ -1,4 +1,4 @@
-public class Main {
+public class Array {
 
     public static void main(String[] args) {
         // Part 1: For Loop to print numbers 10 to 1
